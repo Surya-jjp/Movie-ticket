@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1723995186 source:d:\manipal\data structure\coding\movie\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1723997201 d:\manipal\data structure\coding\movie\header.h
+
+1723997045 source:d:\manipal\data structure\coding\movie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
